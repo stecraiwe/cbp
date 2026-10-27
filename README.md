@@ -1,2 +1,0 @@
-# cbp
-Course booking platform
